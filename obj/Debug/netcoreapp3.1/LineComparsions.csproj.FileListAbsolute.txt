@@ -1,0 +1,13 @@
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.exe
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.deps.json
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.runtimeconfig.json
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.dll
+C:\Users\Bahulya\source\repos\LineComparsions\bin\Debug\netcoreapp3.1\LineComparsions.pdb
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.dll
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.pdb
+C:\Users\Bahulya\source\repos\LineComparsions\obj\Debug\netcoreapp3.1\LineComparsions.genruntimeconfig.cache
