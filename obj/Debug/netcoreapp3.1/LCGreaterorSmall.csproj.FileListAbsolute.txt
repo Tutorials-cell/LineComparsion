@@ -1,0 +1,13 @@
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.exe
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.deps.json
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.runtimeconfig.json
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.dll
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\bin\Debug\netcoreapp3.1\LCGreaterorSmall.pdb
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.dll
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.pdb
+C:\Users\Bahulya\source\repos\LCGreaterorSmall\obj\Debug\netcoreapp3.1\LCGreaterorSmall.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LCGreaterorSmall/1.0.0": {
+        "runtime": {
+          "LCGreaterorSmall.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCGreaterorSmall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
